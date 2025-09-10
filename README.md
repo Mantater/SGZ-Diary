@@ -42,7 +42,7 @@ This project uses the MIT License.
 ## Notes:
 - Don't forget your password cause I don't know how to get it back :')
 - You can still view the notes from the database if you have SQLite 
-- Feel free to download 'old versions' to view the progression
+- Feel free to download 'archive' to view the progression
 
 ## Versions / Changelog:
 - ver0 – Initial build: created the project from scratch and got the basic diary functionality working.
