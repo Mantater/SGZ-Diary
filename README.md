@@ -4,14 +4,31 @@
 A fun, small, improved project from what I build when I was small. It's a personal digital diary that stores your entries on your computer using SQLite database, secured with hashing function.
 
 ## Installation:
-Can just install .exe file.
+1. Clone repo
+```sh
+git clone https://github.com/username/SGZ-Diary.git
+```
+2. Install dependencies
+```sh
+pip install -r requirements.txt
+```
+3. Run project (for ver1, 2)
+```sh
+python Main.py
+```
+
+or
+
+- Download .exe file then run it
+
+
 
 ## Usage:
 1. Login (default password is empty)
 2. Use the Menu to:
-  - Write a new diary entry
-  - View previous entries
-  - Reset your password
+    - Write a new diary entry
+    - View previous entries
+    - Reset your password
 
 ## Features:
 - Simple and intuitive interface: Login → Menu → Write/View entries → Reset password
