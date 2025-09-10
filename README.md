@@ -30,7 +30,7 @@ or
     - Reset your password
 
 ## Features:
-- Simple and intuitive interface: Login → Menu → Write/View entries → Reset password
+- Simple and intuitive interface: Login → Menu → Write/View entries, Reset password
 - Default password is blank ("") — just press Login
 - Automatically creates a new database if one doesn’t exist
 - All entries are stored securely in a local SQLite database
