@@ -12,7 +12,7 @@ git clone https://github.com/Mantater/SGZ-Diary.git
 ```sh
 pip install -r requirements.txt
 ```
-3. Run project (NOT for ver0)
+3. Run project (**not** for ver0)
 ```sh
 python Main.py
 ```
