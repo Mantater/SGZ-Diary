@@ -19,7 +19,7 @@ python Main.py
 
 or
 
-- Download .exe file then run it
+- Download `.exe` file then run it
 
 
 ## Usage:
