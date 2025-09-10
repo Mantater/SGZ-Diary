@@ -1,7 +1,7 @@
 # Project Title: SGZ Diary 
 
 ## Description:
-A fun, small, improved project from what I build when I was small. It's a personal digital diary that stores your entries on your computer using SQLite database, secured with hashing function.
+A personal digital diary that stores your entries on your computer using SQLite database, secured with hashing function.
 
 ## Installation:
 1. Clone repo
