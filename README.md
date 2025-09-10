@@ -6,7 +6,7 @@ A personal digital diary that stores your entries on your computer using SQLite 
 ## Installation:
 1. Clone repo
 ```sh
-git clone https://github.com/username/SGZ-Diary.git
+git clone https://github.com/Mantater/SGZ-Diary.git
 ```
 2. Install dependencies
 ```sh
