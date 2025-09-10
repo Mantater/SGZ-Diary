@@ -25,6 +25,6 @@ Can just install .exe file.
 - Feel free to download 'old versions' to view the progression
 
 ## Versions / Changelog:
-ver0 – Initial build: created the project from scratch and got the basic diary functionality working.
-ver1 – Added entry storage and password protection. Password reset feature was missing.
-ver2 – Current version: fully functional, compiled into a .exe for easy use.
+- ver0 – Initial build: created the project from scratch and got the basic diary functionality working.
+- ver1 – Added entry storage and password protection. Password reset feature was missing.
+- ver2 – Current version: fully functional, compiled into a .exe for easy use.
