@@ -22,7 +22,6 @@ or
 - Download .exe file then run it
 
 
-
 ## Usage:
 1. Login (default password is empty)
 2. Use the Menu to:
@@ -35,6 +34,10 @@ or
 - Default password is blank ("") — just press Login
 - Automatically creates a new database if one doesn’t exist
 - All entries are stored securely in a local SQLite database
+
+## License:
+This project uses the MIT License.
+- The code in this repo is open-source and free to use.
 
 ## Notes:
 - Don't forget your password cause I don't know how to get it back :')
