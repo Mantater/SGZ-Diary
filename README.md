@@ -1,7 +1,7 @@
 # SGZ Diary 
 
 ## Description:
-A personal digital diary that stores your entries on your computer using SQLite database, secured with hashing function.
+A personal digital diary that stores your entries on your computer using `SQLite` database, secured with hashing function.
 
 ## Installation
 1. Clone repo
@@ -12,7 +12,7 @@ git clone https://github.com/Mantater/SGZ-Diary.git
 ```sh
 pip install -r requirements.txt
 ```
-3. Run project (**not** for ver0)
+3. Run project (**not** for `ver0`)
 ```sh
 python Main.py
 ```
@@ -31,20 +31,19 @@ or
 
 ## Features
 - Simple and intuitive interface: Login → Menu → Write/View entries, Reset password
-- Default password is blank ("") — just press Login
+- Default password is blank (`""`) — just press Login
 - Automatically creates a new database if one doesn’t exist
-- All entries are stored securely in a local SQLite database
+- All entries are stored securely in a local `SQLite` database
 
 ## License
-This project uses the MIT License.
-- The code in this repo is open-source and free to use.
+This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Notes
 - Don't forget your password cause I don't know how to get it back :')
-- You can still view the notes from the database if you have SQLite 
-- Feel free to download 'archive' to view the progression
+- You can still view the notes from the database if you have `SQLite`
+- Feel free to download `archive/` to view the progression
 
 ## Versions / Changelog
-- ver0 – Initial build: created the project from scratch and got the basic diary functionality working.
-- ver1 – Added entry storage and password protection. Password reset feature was missing.
-- ver2 – Current version: fully functional, compiled into a .exe for easy use.
+- `ver0` – Initial build: created the project from scratch and got the basic diary functionality working.
+- `ver1` – Added entry storage and password protection. Password reset feature was missing.
+- `ver2` – Current version: fully functional, compiled into a .exe for easy use.
